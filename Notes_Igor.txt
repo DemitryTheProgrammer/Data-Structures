@@ -1,0 +1,17 @@
+Data - any information stores in or used by a computer.
+
+Abstract Data Types - A logical model for data Types
+                    - Defines data and operations but no implementation.
+
+Algorithm - Takes input to give output.
+                    - Essential aspect of data structures
+                    - Efficiency is preferred
+
+Evaluating Algorithm Efficiency
+        - Avoid using Real-Time Units
+        - Use Logical Units
+    - Complexity: describes the effieciency of the algorithm in terms of the amount of date that algorithm must process.
+        - Time Complexity: the amount of time an algorithm takes in terms of the amount of input.
+        - Space Complexity: describes the amount of memort an algorithm takes in terms of amount of input.
+
+Big-O-Notation - can be described as an upper bound for a complexity function
